@@ -16,3 +16,7 @@ Starting with the fundamental concepts of F# and functional programming, this bo
 
 In The Book of F#, Microsoft MVP Dave Fancher shares his expertise and teaches you how to wield the power of F# to write succinct, reliable, and predictable code. As you learn to take advantage of features like default immutability, pipelining, type inference, and pattern matching, you'll be amazed at how efficient and elegant your code can be.
 
+[F# Applied](http://products.tamizhvendan.in/fsharp-applied/)
+
+You will learn how to create complete application using Functional Programming Principles using F#, an in-depth understanding of Web development in F# using Suave, how to develop applications using EventSourcing, CQRS, and DDD in F#, how to set up continuous integration and continuous deployment using FAKE and Docker, and how to leverage libraries like Rx, FSharp.Data and Paket.
+
