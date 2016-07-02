@@ -10,4 +10,6 @@ A plethora of projects including paket, fable, etc.
 
 [github api url to get fsharp code projects](https://api.github.com/legacy/repos/search/language:fsharp)
 
+[fsharp nuget packages](https://www.nuget.org/packages?q=f%23)
+
 
