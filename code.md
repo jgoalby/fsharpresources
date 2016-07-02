@@ -12,4 +12,8 @@ A plethora of projects including paket, fable, etc.
 
 [fsharp nuget packages](https://www.nuget.org/packages?q=f%23)
 
+[fsharp snippets](http://fssnip.net)
+
+similar to gists, but with fsharp
+
 
