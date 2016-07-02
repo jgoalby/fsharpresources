@@ -30,4 +30,10 @@ You will need a silverlight extension installed to run code in the browser at th
 
 Includes fundamentals, advanced programming, data visualization, data science, scientific, and financial computing.
 
+# help from others
+
+[Stack overflow questions tagged fsharp](http://stackoverflow.com/questions/tagged/f%23)
+
+Great resource to see questions and answers on fsharp.
+
 
